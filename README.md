@@ -27,11 +27,14 @@ Comparative analysis of patients with autism and healthy people based on NGS dat
 
 ## 1.1 Рассчет объема выборки для хи квадрат
 
-Variant ID	Group	Present	Absent	Total
-rs123456	Sick	40	60	100
-rs123456	Healthy	10	90	100
-rs789101	Sick	30	70	100
-rs789101	Healthy	15	85	100
+| Variant ID | Group   | Present | Absent | Total |
+|------------|---------|---------|--------|-------|
+| rs123456   | Sick    | 40      | 60     | 100   |
+| rs123456   | Healthy | 10      | 90     | 100   |
+| rs789101   | Sick    | 30      | 70     | 100   |
+| rs789101   | Healthy | 15      | 85     | 100   |
+...
+Примерно 10000 - 100000 на экзом.
 
 ## 1.2 Рассчет объема выборки для хи квадрат
 
