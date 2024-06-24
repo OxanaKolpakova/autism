@@ -92,5 +92,4 @@ NOTE: N is the number of observations
 ## 3 Сравнение иллюмины и генолаба
 - Провести анализ конкордантности. Нужны ли контрольные библиотеки?
 concordance rate
-https://github.com/glebus-sasha/autism/edit/main/README.md
 - или просто GC. Этого достаточно?
