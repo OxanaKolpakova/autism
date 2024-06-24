@@ -87,9 +87,9 @@ NOTE: N is the number of observations
 
 360 человек для среднего эффекта с учетом поправки Бонферони
 
-## 2
+## 2 Сравнение детей и взрослых
 
-## 3
+## 3 Сравнение иллюмины и генолаба
 - Провести анализ конкордантности. Нужны ли контрольные библиотеки?
 concordance rate
 https://github.com/glebus-sasha/autism/edit/main/README.md
