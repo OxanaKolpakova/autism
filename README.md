@@ -45,6 +45,10 @@ https://pubmed.ncbi.nlm.nih.gov/36721080/
 4: Feng B, Lai J, Fan X, Liu Y, Wang M, Wu P, Zhou Z, Yan Q, Sun L. 
 Systematic comparison of variant calling pipelines of target genome sequencing cross multiple next-generation sequencers. Front Genet. 2024 Jan 4;14:1293974. doi: 10.3389/fgene.2023.1293974. PMID: 38239851; PMCID: PMC10794554.
 
+MGI: https://pubmed.ncbi.nlm.nih.gov/32176719/
+
+
+
 Планирование эксперимента, анализ
 
 ## Какой анализ мы проводим?
