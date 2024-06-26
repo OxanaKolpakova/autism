@@ -76,7 +76,7 @@ MGI: https://pubmed.ncbi.nlm.nih.gov/32176719/
 - Нужно больше людей для мощности
 - Проблема субпопуляция, надо кластеризировать каждую субпопуляцию
 
-  5. поиск перепредставленных путей по GO? https://wiki.uio.no/projects/clsi/images/0/0a/GeneOntologyAndORA-2015.pdf
+5. поиск перепредставленных путей по GO? https://wiki.uio.no/projects/clsi/images/0/0a/GeneOntologyAndORA-2015.pdf
 
 
 
