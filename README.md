@@ -148,3 +148,10 @@ NOTE: N is the number of observations
 - Провести анализ конкордантности. Нужны ли контрольные библиотеки?
 concordance rate
 - или просто GC. Этого достаточно?
+
+## Contributors
+
+## Contributors
+
+- Oxana Kolpakova ([@OxanaKolpakova](https://github.com/OxanaKolpakova))
+- Glebus Aleksandr ([@glebus-sasha](https://github.com/glebus-sasha/))
